@@ -1,0 +1,31 @@
+{
+  "name": "asset-receive-mock-tool",
+  "version": "1.0.0",
+  "description": "将线上应用数据进行本地化存储, 形成演示版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weex",
+    "weex ui",
+    "madp",
+    "madp app",
+    "vue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "morgan": "^1.10.0",
+    "qs": "^6.10.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "mockjs": "^1.1.0"
+  }
+}
